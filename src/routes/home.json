@@ -1,0 +1,310 @@
+[
+    {
+        "page": "index",
+        "components": [
+            {
+                "id": "Index_Nav",
+                "content": {
+                    "main_page": "Talentloop",
+                    "employers_page": "Hire Talent",
+                    "talents_page": "Find a job",
+                    "about_page": "About us",
+                    "jobs_page": "View jobs",
+                    "mainpage_link": "",
+                    "employerspage_link": "./employers",
+                    "talentspage_link": "./talents",
+                    "aboutpage_link": "./about",
+                    "jobspage_link": "./jobs"
+                }
+            },
+            {
+                "id": "Index_Section1",
+                "content": {
+                    "title": "Matching you to your fullest potential. Land your dream job, fast!",
+                    "description": "You’re more than your resume. Create a free profile and let companies apply to interview you."
+                }
+            },
+            {
+                "id": "Index_Section2",
+                "content": {
+                    "strong_word1": "Save time:",
+                    "strong_word2": "Save money:",
+                    "strong_word3": "Tech-focused:",
+                    "description1": "Sit back, relax. Let us help you find the best match between companies and talents.",
+                    "description2": "100% free for talents. For employers, pay us a tiny fee only when you get a match. Pay nothing if you don’t get what you’re looking for.",
+                    "description3": "We specialise in only talents in tech. Trust us on all things tech-related. From Web, Mobile, Web3, UIUX and everything in between."
+                }
+            },
+            {
+                "id": "Index_Section3",
+                "content": {
+                    "title": "Find your dream job, wherever you may be. 100% free.",
+                    "description": "Flexibility is the key to happiness. Whether you’re remote, hybrid, or fully in-office, Talentloop will connect you directly with hiring managers at the best companies that meet your needs best.",
+                    "img": "./Optic - Webflow HTML Website Template_files/5f0cff2d4a0b1c40c419792a_Video Play Icon.svg"
+               
+                }
+            },
+            {
+                "id": "Index_Section4",
+                "content": {
+                    "title": "Hire better tech talent, faster.",
+                    "description": "Looking to hire? The candidates on Talentloop are qualified and ready to interview. We’ll make sure to match the right talents to you based on your requirements and cultural fit!",
+                    "img": "./Optic - Webflow HTML Website Template_files/5f0cff2d4a0b1c40c419792a_Video Play Icon.svg"
+
+                }
+            },
+            {
+                "id": "Index_Section5",
+                "content": {
+                    "title": "Here’s how it works",
+                    "card1_title": "1. Create candidate profile",                    
+                    "card2_title": "2. Search Or Get Matched",
+                    "card3_title": "3. We'll Be In Touch!",
+                    "card4_title": "4. Interview",
+                    "card5_title": "5. Accept offer & start work",
+                    "card1_description": "Tell us your skills, your background and what you’re looking for. We check for matching companies.",
+                    "card2_description": "Search and apply for the jobs that you are interested in, or get interview request from companies.",
+                    "card3_description": "Check interview requests online. Agree to the companies that best match your career goals.",
+                    "card4_description": "We will work closely with you to select the right candidate throughout your interview process. Finally, we will mediate the offer negotiation process to ensure a win-win situation.",
+                    "card5_description": "Accept the job offer that you love the most!"
+                }
+            },
+            {
+                "id": "Index_Section6",
+                "content": {
+                    "logo1": "https://epicstartups.co/assets/limitd-logo.png",
+                    "logo2": "https://epicstartups.co/assets/sigma-logo.png",
+                    "logo3": "https://epicstartups.co/assets/limitd-logo.png",
+                    "logo4": "https://sigmaschool.co/assets/partners/epicstartups.png"
+                }
+            },
+            {
+                "id": "Index_Section7",
+                "content": {
+                    "title": "See what job opportunities we have",
+                    "btn_link": "./jobs"
+                }
+            },
+            {
+                "id": "Index_Section8",
+                "content": {
+                    "title": "Let’s get started! Are you a:"
+                }
+            },
+            {
+                "id": "Index_Section9",
+                "content": {
+                    "img1": "https://assets.website-files.com/5f0cefea45df2a2a5af4fa7d/5f0fa0e1ee20ce60b4425a49_landscape-03-p-1080.jpeg 1080w, https://assets.website-files.com/5f0cefea45df2a2a5af4fa7d/5f0fa0e1ee20ce60b4425a49_landscape-03.jpg 1220w",
+                    "img2": "https://assets.website-files.com/5f0cefea45df2a2a5af4fa7d/5f0fa0e15d293a96bd61006c_landscape-02-p-1080.jpeg 1080w, https://assets.website-files.com/5f0cefea45df2a2a5af4fa7d/5f0fa0e15d293a96bd61006c_landscape-02.jpg 1220w",
+                    "talent_link": "./talents",
+                    "employer_link": "./employers"
+                }
+            },
+            {
+                "id": "Index_Footer",
+                "content": {
+                    "addressline1": "Lumi Tropicana, Persiaran Tropicana",
+                    "addressline2": "47800, Selangor",
+            		"addressline3": "Malaysia",
+                    "phone": "+60183915232",
+                    "email": "hello@talentloop.co",
+                    "copyright": "Talentloop",
+                    "company": "Sigma School",
+                    "companylink": "https://sigmaschool.co/"
+                }
+            }
+            
+
+        ]
+    },
+    {
+        "page": "employers",
+        "components": [
+            {
+                "id": "Employers_Nav",
+                "content": {
+                    "main_page": "Talentloop",
+                    "employers_page": "Hire Talent",
+                    "talents_page": "Find a job",
+                    "about_page": "About us",
+                    "jobs_page": "View jobs",
+                    "mainpage_link": "/",
+                    "employerspage_link": "",
+                    "talentspage_link": "./talents",
+                    "aboutpage_link": "./about",
+                    "jobspage_link": "./jobs"
+                }
+            },
+            {
+                "id": "Employers_Section1",
+                "content": {
+                    "title": "Innovative companies are only as successful as their people",
+                    "description": "Get instant access to a curated pool of responsive & competent tech talent actively seeking their next role",
+                    "img": "https://assets.website-files.com/5f0cefea45df2a2a5af4fa7d/5f0fa0e2c295be7ce2d09969_Portrait-06-p-500.jpeg 500w, https://assets.website-files.com/5f0cefea45df2a2a5af4fa7d/5f0fa0e2c295be7ce2d09969_Portrait-06-p-800.jpeg 800w, https://assets.website-files.com/5f0cefea45df2a2a5af4fa7d/5f0fa0e2c295be7ce2d09969_Portrait-06.jpg 836w"
+                }
+            },
+            {
+                "id": "Employers_Section2",
+                "content": {
+                    "logo1": "https://epicstartups.co/assets/sigma-logo.png",
+                    "logo2": "https://epicstartups.co/assets/sigma-logo.png",
+                    "logo3": "https://epicstartups.co/assets/hantargo-logo.png",
+                    "logo4": "https://epicstartups.co/assets/limitd-logo.png"
+                }
+            },
+            {
+                "id": "Employers_Section3",
+                "content": {
+                    "title": "We’re more than ordinary headhunters",
+                    "card1_title": "We partner with top coding schools & universities",
+                    "card2_title": "Dedicated Specialist Tech Recruitment Team",
+                    "card3_title": "Pay nothing if you don’t get a match",
+                    "card4_title": "Match guarantee. Refund or replacement.",
+                    "card5_title": "Get matches within 7 days",
+                    "card6_title": "Pre and Post-placement Candidate Management",
+                    "card1_description": "Where Junior Software Engineers take their first steps in their tech career.",
+                    "card2_description": "Our team of consultants specialize in all things tech.",
+                    "card3_description": "Our success is your success. Pay when the work is done.",
+                    "card4_description": "We believe in long term relationships with both our employers and talents.",
+                    "card5_description": "We continuously engage Software Engineers so that you receive profiles quicker.",
+                    "card6_description": "In today’s ultra competitive hiring environment for software engineers, let us manage your candidates to ensure they stay."
+                }
+            },
+            {
+                "id": "Employers_Section4",
+                "content": {
+                    "img": "https://assets.website-files.com/5f0cefea45df2a2a5af4fa7d/5f0fa0e3261e396035e26d93_Square-Large-02-p-500.jpeg 500w, https://assets.website-files.com/5f0cefea45df2a2a5af4fa7d/5f0fa0e3261e396035e26d93_Square-Large-02-p-800.jpeg 800w, https://assets.website-files.com/5f0cefea45df2a2a5af4fa7d/5f0fa0e3261e396035e26d93_Square-Large-02.jpg 1000w",
+                    "card1_title": "Hire for proven skills, not just pedigree",
+                    "card2_title": "See what candidates want, upfront",
+                    "card3_title": "Send customized assessments to candidates for free",
+
+                    "card1_description": "Traditional resumes look backwards at a candidate's experience. On Hired, get real-world skill assessments upfront so you can have the insights you need to find a better fit, faster.",
+                    "card2_description": "See candidates salary expectations and work preferences upfront to have more transparent negotiations that save time and avoid bias.",
+                    "card3_description": "Assess candidates' skills remotely with a free suite of customizable technical assessments. Run programming challenges in real-time or asynchronously, always with a complete coding playback."
+
+                }
+            },
+            {
+                "id": "Employers_Section5",
+                "content": {
+                    "title": "Here’s how it works",
+                    "card1_title": "Understanding your vacancies",
+                    "card2_title": "Sourcing",
+                    "card3_title": "Screening",
+                    "card4_title": "Select",
+                    "card5_title": "Service",
+                    "card1_description": "Every engagement begins with a discovery and qualifying your vacancies. Put simply, this is a structured review of your requirements.",
+                    "card2_description": "During the sourcing phase, the team will study your requirements and build a long list of candidates who are right for your requirements.",
+                    "card3_description": "The team will then screen through the candidates to ensure a preliminary fit using a combination of interview techniques. The outcome of this will be a shortlist of candidates for you to interview.",
+                    "card4_description": "We will work closely with you to select the right candidate throughout your interview process. Finally, we will mediate the offer negotiation process to ensure a win-win situation.",
+                    "card5_description": "Our work does not stop when the candidate accepts the offer. We will diligently keep in touch with the candidate during the pre-onboarding and post placement period to ensure the candidate settles in."
+                }
+            },
+            {
+                "id": "Employers_Section6",
+                "content": {
+
+                }
+            },
+            {
+                "id": "Employers_Footer",
+                "content": {
+                    "addressline1": "Lumi Tropicana, Persiaran Tropicana",
+                    "addressline2": "47800, Selangor",
+            		"addressline3": "Malaysia",
+                    "phone": "+60183915232",
+                    "email": "hello@talentloop.co",
+                    "copyright": "Talentloop",
+                    "company": "Sigma School",
+                    "companylink": "https://sigmaschool.co/"
+                }
+            }
+
+
+        ]
+    },
+    {
+        "page": "talents",
+        "components": [
+            {
+                "id": "Talents_Nav",
+                "content": {
+                    "main_page": "Talentloop",
+                    "employers_page": "Hire Talent",
+                    "talents_page": "Find a job",
+                    "about_page": "About us",
+                    "jobs_page": "View jobs",
+                    "mainpage_link": "/",
+                    "employerspage_link": "./employers",
+                    "talentspage_link": "",
+                    "aboutpage_link": "./about",
+                    "jobspage_link": "./jobs"
+                }
+            },
+            {
+                "id": "Talents_Section1",
+                "content": {
+                    "title": "Matching you to your fullest potential. 100% free.",
+                    "description": "You’re more than your resume. Create a free profile and let companies apply to interview you."
+                }
+            },
+            {
+                "id": "Talents_Section2",
+                "content": {
+                    "title": "Find your dream job, wherever you may be",
+                    "description": "Flexibility is the key to happiness. Whether you’re remote, hybrid, or fully in-office, Talentloop will connect you directly with hiring managers at the best companies that meet your needs best.",
+                    "card1": "Create a unique candidate profile",
+                    "card2": "Search and apply for jobs you want",
+                    "card3": "A Talentloop staff will get in touch asap",
+                    "img": "https://assets.website-files.com/5f0cefea45df2a2a5af4fa7d/5f0fa0e2057709539468ff6a_Portrait-02-p-500.jpeg 500w, https://assets.website-files.com/5f0cefea45df2a2a5af4fa7d/5f0fa0e2057709539468ff6a_Portrait-02-p-800.jpeg 800w, https://assets.website-files.com/5f0cefea45df2a2a5af4fa7d/5f0fa0e2057709539468ff6a_Portrait-02.jpg 836w",
+                    "img_caption": "Turbocharge your job search. The best jobs only."
+                }
+            },
+            {
+                "id": "Talents_Section3",
+                "content": {
+                    "title": "Start the next chapter in your career here.",
+                    "card1_title": "Companies apply to you",
+                    "card2_title": "Transparent offers",
+                    "card3_title": "No commitment",
+                    "card4_title": "Skills-based profiles",
+                    "card1_description": "Sit back and let companies send you interview requests.",
+                    "card2_description": "Compare exclusive interview requests with salary details upfront.",
+                    "card3_description": "100% free and confidential. Choose which interview to accept, completely risk-free.",
+                    "card4_description": "Create a job search profile focused on your skills rather than experience to land your dream job.",
+                    "img": "https://assets.website-files.com/5f0cefea45df2a2a5af4fa7d/5f0fa0e2261e39aa24e26d92_Portrait-04-p-500.jpeg 500w, https://assets.website-files.com/5f0cefea45df2a2a5af4fa7d/5f0fa0e2261e39aa24e26d92_Portrait-04-p-800.jpeg 800w, https://assets.website-files.com/5f0cefea45df2a2a5af4fa7d/5f0fa0e2261e39aa24e26d92_Portrait-04.jpg 836w"
+                }
+            },
+            {
+                "id": "Talents_Section4",
+                "content": {
+                    "logo1": "https://epicstartups.co/assets/sigma-logo.png",
+                    "logo2": "https://epicstartups.co/assets/sigma-logo.png",
+                    "logo3": "https://epicstartups.co/assets/hantargo-logo.png",
+                    "logo4": "https://epicstartups.co/assets/limitd-logo.png"
+                }
+            },
+            {
+                "id": "Talents_Section5",
+                "content": {
+                    "title": "Build something you’re proud of.",
+                    "description": "If you're a developer, product manager, or designer, our employers want to meet you."
+                }
+            },
+            {
+                "id": "Talents_Footer",
+                "content": {
+                    "addressline1": "Lumi Tropicana, Persiaran Tropicana",
+                    "addressline2": "47800, Selangor",
+            		"addressline3": "Malaysia",
+                    "phone": "+60183915232",
+                    "email": "hello@talentloop.co",
+                    "copyright": "Talentloop",
+                    "company": "Sigma School",
+                    "companylink": "https://sigmaschool.co/"
+                }
+            }
+        ]
+    }
+
+]
